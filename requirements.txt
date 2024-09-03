@@ -1,2 +1,7 @@
 transformers
+pytorch-cuda
 pytorch
+evaluate
+accelerate
+
+
